@@ -6,10 +6,6 @@ README.md
 # Source maps (if any)
 *.map
 
-# Backup files
-*.bak
-*.backup
-
 # OS files
 .DS_Store
 Thumbs.db
@@ -17,3 +13,7 @@ Thumbs.db
 # Editor files
 .vscode/
 .idea/
+
+# Backup files
+*.bak
+*.backup
