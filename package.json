@@ -1,0 +1,29 @@
+{
+  "name": "wakeboarding-adventures",
+  "version": "1.0.0",
+  "description": "Premium wakeboarding website with modern design and animations",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build required'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "wakeboarding",
+    "water-sports",
+    "adventures",
+    "premium",
+    "responsive",
+    "modern"
+  ],
+  "author": "Talha-SE",
+  "license": "CC-BY-4.0",
+  "homepage": "https://wakeboarding-adventures.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Talha-SE/wakeboarding-adventures"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
